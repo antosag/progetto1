@@ -4,15 +4,6 @@
 # ANTONIETTA SAGGESE 119112807 - 13th OCTOBER 2019
 #
 
-def syracuse_fn(n):
-    # Calculate the Syracuse operation on the argument of the parameter n and
-    # return the result of the calculation (result): if n is even the number is
-    # divided by 2, if it's odd the number is multiplied by three and added to one
-    if n%2==0:
-        result=n//2
-    else:
-        result=n*3+1
-    return result
 
 
 def syracuse_seq(n):
