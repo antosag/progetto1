@@ -6,6 +6,9 @@
 
 
 
+ciao antonietta l'ho modificata io, gregorio
+
+
 def syracuse_seq(n):
     # Compute the Syracuse sequence from the argument of the parameter n as starting point and return 
     # the length of the sequence (length) and the value of largest element in the sequence (maximum)
