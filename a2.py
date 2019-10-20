@@ -8,6 +8,12 @@
 
 ciao antonietta l'ho modificata io, gregorio
 
+ciao antonietta l'ho modificata io, gregorio
+ciao antonietta l'ho modificata io, gregorio
+ciao antonietta l'ho modificata io, gregorio
+ciao antonietta l'ho modificata io, gregorio
+ciao antonietta l'ho modificata io, gregorio
+ciao antonietta l'ho modificata io, gregorio
 
 def syracuse_seq(n):
     # Compute the Syracuse sequence from the argument of the parameter n as starting point and return 
