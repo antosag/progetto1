@@ -22,19 +22,7 @@ def cal (month, year):
                                                   # which the first of the month falls
                                                   
     week= first_day                               # variable containing the corresponding day of week
-    while(count_day != days_in_month):
-        
-        if no_print<first_day:
-            print("%3c" %" ", end="")
-            no_print = no_print + 1
-        else:
-            count_day=count_day+1
-            week=week+1
-            if (week==7):
-                print("%3d" %count_day)
-                week=0
-            else:
-                print("%3d" %count_day, end="")
+   
 
 
 def start_day (month, year):
